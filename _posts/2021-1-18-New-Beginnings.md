@@ -1,9 +1,7 @@
----
 layout: post
 title: "New Beginnings"
 date: 2021-1-18 5:00 PM EST
 categories: Bloggging-Maybe?
----
 # New Beginnings
 Today, I made the descision to start my GitHub Pages website. I hope this goes well. Knowing me, that isn't likely.
 
