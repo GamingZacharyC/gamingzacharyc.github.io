@@ -46,11 +46,15 @@ div.container p {text-align: center;font-family: Arial;font-size: 48px;font-styl
 <h5>(probably me)</h5><br>
 <p>Followed a bad link?</p><br>
 <p>You should probably tell whoever made the link that it doesn't work. For your convienience, you can use this </p>
-<a onclick="goBack()" class="niftyButton">Nifty Button</a>
+<a onclick="goBack()" class="niftyButton">Nifty Button</a><script>function goBack() {window.history.go(-1);}</script>
 
 .niftyButton {
+	-moz-box-shadow:inset 0px 50px 50px -50px #0080ff;
+	-webkit-box-shadow:inset 0px 50px 50px -50px #0080ff;
 	box-shadow:inset 0px 50px 50px -50px #0080ff;
 	background-color:#00c1d6;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
 	border-radius:4px;
 	border:2px solid #0571ff;
 	display:inline-block;
@@ -70,6 +74,7 @@ div.container p {text-align: center;font-family: Arial;font-size: 48px;font-styl
 	position:relative;
 	top:1px;
 }
+
 <p>to go back where you came from!</p>
 </div>
 </body>
