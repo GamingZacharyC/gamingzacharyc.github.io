@@ -1,4 +1,3 @@
-Hello and good day! I am GamingZacharyC, a Minecraft mod developer.
+Hello and good day! I am GamingZacharyC, a Minecraft mod and software utility developer.
 
-My most recent project is Aetherium, a Minecraft magic mod. See that at the [dedicated Aetherium Page](/Aetherium)
-
+I have a wide variety of in-progress projects, including [Aetherium](/Aetherium), Livin' Half, and a few others that are to remain under the radar for the time being.
